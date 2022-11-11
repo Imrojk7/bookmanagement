@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6369f8c6636f5dd925442996"
+  },
+  "user_id": {
+    "$oid": "6369f895636f5dd925442995"
+  },
+  "book_id": {
+    "$oid": "6369f4be636f5dd925442994"
+  }
+},{
+  "_id": {
+    "$oid": "6369fcd78502cf92bbd1ecb9"
+  },
+  "user_id": {
+    "$oid": "6369f895636f5dd925442995"
+  },
+  "book_id": {
+    "$oid": "6369f4be636f5dd925442994"
+  }
+},{
+  "_id": {
+    "$oid": "6369fef1ce0e5504c21126c1"
+  },
+  "user_id": {
+    "$oid": "6369f895636f5dd925442995"
+  },
+  "book_id": {
+    "$oid": "6369fd078502cf92bbd1ecba"
+  }
+},{
+  "_id": {
+    "$oid": "636a9f0e8694640faf027eac"
+  },
+  "user_id": {
+    "$oid": "6369f895636f5dd925442995"
+  },
+  "book_id": {
+    "$oid": "636a9e6a8694640faf027ea9"
+  }
+},{
+  "_id": {
+    "$oid": "636aa1b88694640faf027eae"
+  },
+  "user_id": {
+    "$oid": "636a9faa8694640faf027ead"
+  },
+  "book_id": {
+    "$oid": "636a9e818694640faf027eaa"
+  }
+},{
+  "_id": {
+    "$oid": "636aa1be8694640faf027eaf"
+  },
+  "user_id": {
+    "$oid": "636a9faa8694640faf027ead"
+  },
+  "book_id": {
+    "$oid": "636a9e818694640faf027eaa"
+  }
+},{
+  "_id": {
+    "$oid": "636aa29e8694640faf027eb0"
+  },
+  "user_id": {
+    "$oid": "636a9faa8694640faf027ead"
+  },
+  "book_id": {
+    "$oid": "636a9e818694640faf027eaa"
+  }
+},{
+  "_id": {
+    "$oid": "636d28038694640faf027eb1"
+  },
+  "user_id": {
+    "$oid": "6369f895636f5dd925442995"
+  },
+  "book_id": {
+    "$oid": "6369f4be636f5dd925442994"
+  }
+},{
+  "_id": {
+    "$oid": "636e63b08694640faf027eb3"
+  },
+  "user_id": {
+    "$oid": "636e63648694640faf027eb2"
+  },
+  "book_id": {
+    "$oid": "636a9eb98694640faf027eab"
+  }
+}]

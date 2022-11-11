@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6369f4be636f5dd925442994"
+  },
+  "name": "Young Adult test2",
+  "author": "Young Adult",
+  "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+  "image": "/images/1667888318.jpg"
+},{
+  "_id": {
+    "$oid": "6369fd078502cf92bbd1ecba"
+  },
+  "name": "test",
+  "author": "testing author",
+  "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+  "image": "/images/1667890439.jpg"
+},{
+  "_id": {
+    "$oid": "636a9e6a8694640faf027ea9"
+  },
+  "name": "c",
+  "author": "Tester Author Name",
+  "description": "Author NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor Name",
+  "image": "/images/1667931754.jpg"
+},{
+  "_id": {
+    "$oid": "636a9e818694640faf027eaa"
+  },
+  "name": "Book Name 4",
+  "author": "Author Name",
+  "description": "Author NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor Name",
+  "image": "/images/1667931777.jpg"
+},{
+  "_id": {
+    "$oid": "636a9eb98694640faf027eab"
+  },
+  "name": "Book Name5",
+  "author": "Author Name",
+  "description": "Author NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor NameAuthor Name",
+  "image": "/images/1667931833.jpg"
+}]
